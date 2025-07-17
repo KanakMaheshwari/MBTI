@@ -1,0 +1,124 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "question": "When attending a social gathering, you:",
+      "options": {
+        "0": "Start conversations with strangers and enjoy mingling",
+        "1": "Prefer to stay with people you know and avoid large groups"
+      }
+    },
+    {
+      "id": 2,
+      "question": "When planning a trip, you:",
+      "options": {
+        "0": "Create a detailed itinerary and stick to it",
+        "1": "Go with the flow and decide as things come up"
+      }
+    },
+    {
+      "id": 3,
+      "question": "When solving a problem, you:",
+      "options": {
+        "0": "Focus on practical solutions and facts",
+        "1": "Consider abstract ideas and possibilities"
+      }
+    },
+    {
+      "id": 4,
+      "question": "Which describes you best?",
+      "options": {
+        "0": "Logical and objective in decision-making",
+        "1": "Compassionate and considerate of others' feelings"
+      }
+    },
+    {
+      "id": 5,
+      "question": "When working on a project, you:",
+      "options": {
+        "0": "Like to finish ahead of deadlines and stay organized",
+        "1": "Feel more comfortable working closer to the deadline"
+      }
+    },
+    {
+      "id": 6,
+      "question": "You prefer:",
+      "options": {
+        "0": "Spending your weekend with a big group of friends",
+        "1": "Spending your weekend quietly at home or with a close friend"
+      }
+    },
+    {
+      "id": 7,
+      "question": "In conversations, you:",
+      "options": {
+        "0": "Speak your thoughts as they come to mind",
+        "1": "Think before speaking and choose your words carefully"
+      }
+    },
+    {
+      "id": 8,
+      "question": "When learning something new, you:",
+      "options": {
+        "0": "Prefer practical, hands-on experience",
+        "1": "Enjoy exploring theories and concepts"
+      }
+    },
+    {
+      "id": 9,
+      "question": "Your decisions are usually based on:",
+      "options": {
+        "0": "Logic and facts",
+        "1": "Personal values and feelings"
+      }
+    },
+    {
+      "id": 10,
+      "question": "You feel more comfortable when:",
+      "options": {
+        "0": "Things are planned and structured",
+        "1": "You have flexibility and can adapt to changes"
+      }
+    },
+    {
+      "id": 11,
+      "question": "When working in a team, you:",
+      "options": {
+        "0": "Prefer to lead and organize tasks",
+        "1": "Prefer to contribute quietly without taking charge"
+      }
+    },
+    {
+      "id": 12,
+      "question": "When faced with a decision, you:",
+      "options": {
+        "0": "Rely on data and analysis",
+        "1": "Consider personal impacts and relationships"
+      }
+    },
+    {
+      "id": 13,
+      "question": "Your workspace is usually:",
+      "options": {
+        "0": "Neat and organized",
+        "1": "A bit messy but you know where things are"
+      }
+    },
+    {
+      "id": 14,
+      "question": "When talking about ideas, you prefer:",
+      "options": {
+        "0": "Practical, real-world applications",
+        "1": "Future possibilities and innovations"
+      }
+    },
+    {
+      "id": 15,
+      "question": "When trying something new, you:",
+      "options": {
+        "0": "Follow instructions step by step",
+        "1": "Experiment and figure it out as you go"
+      }
+    }
+  ]
+}
