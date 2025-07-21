@@ -14,9 +14,6 @@ class Quiz(BaseModel):
     quiz: List[QuestionAndAnswers]
 
 
-
-
-
 @app.get("/")
 def read_root():
     return {"Hello": "World"}
@@ -31,9 +28,17 @@ def get_qa():
     return reading_json()
 
 
-@app.post("/submit")
-def submit_ans(answer:Quiz):
-    return {"submitted":"number"}
+
+@app.post("/predict")
+def predict(q_and_a : Quiz):
+    print(q_and_a)
+    print("slkdhjksdhjkdhsxcjkh")
 
 
+    # return {"hh",str(q_and_a.quiz[0].id)}
 
+    prompt_generate=get_mbti_prediction(q_and_a)
+    result=interact(prompt_generate)
+    return {"result":result}
+
+    
